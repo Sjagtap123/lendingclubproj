@@ -2,4 +2,5 @@
 
 #adding a new feature
 
-#conflict merge demo2
+#conflict merge demo
+
